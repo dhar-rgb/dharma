@@ -10,3 +10,10 @@ cp /users/dharma myfirstproject /users/viswa
 mv /users/dharma myfirstproject /users/viswa
 cat myfirstproject
 exit
+
+echo
+1
+2
+3
+ls aftr
+cat
